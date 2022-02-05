@@ -1,7 +1,5 @@
 # Emberswap.com
 
-Emberswap.com smart contracts
-
 
 Here is the current list of EmberSwap contracts.
 Contract | Address 
