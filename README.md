@@ -4,12 +4,12 @@
 Here is the current list of EmberSwap contracts.
 Contract | Address 
 --- | --- 
-<b>[EmberToken](https://github.com/emberswap/emberswap-contracts/blob/main/contracts/ember/EmberToken.sol)</b>           | 0x0b2C58719a2073640BfC390D703eA832057D2543 
-<b>[EmberDistributorV2](https://github.com/emberswap/emberswap-contracts/blob/main/contracts/farm/EmberDistributorV2.sol)</b>           | 0x0cf19C89e1F3d20B28dAB683EeE6C1cBf3B6c828 
-<b>[EmberVault](https://github.com/emberswap/emberswap-contracts/blob/main/contracts/farm/EmberVault.sol)</b> | 0x2bc8f4a65bd470185C06afB2b8aF5aDFDd6f8A65 
-<b>[EmberFactory](https://github.com/emberswap/emberswap-contracts/blob/main/contracts/uniswapv2/EmberFactory.sol)</b> | 0xB72c1F953cCa7a4b2c22d696AbC5d23552714c18 
-<b>[EmberRouter02](https://github.com/emberswap/emberswap-contracts/blob/main/contracts/uniswapv2/EmberRouter02.sol)</b> | 0xCDF845157D3fE9b6148CFA40Cf122316D5698a85 
-<b>[EmberLocker](https://github.com/emberswap/emberswap-contracts/blob/main/contracts/locker/EmberLocker.sol)</b> | 0x21bdD302794D6eC4Bff806AF26550008901CbEff 
-<b>[Multicall2](https://github.com/emberswap/emberswap-contracts/blob/main/contracts/helpers/Multicall2.sol) </b>| 0xd0220AF0283276eE89287e6a13969E378E104Bb3 
-<b>[Forwarder](https://github.com/emberswap/emberswap-contracts/blob/main/contracts/forwarder/Forwarder.sol)</b> | 0x0d998dDa948c62a4feCA7355E46D6B801A1AEDd6 
-<b>[Timelock](https://github.com/emberswap/emberswap-contracts/blob/main/contracts/helpers/Timelock.sol) </b>| 0x03429c33CB3ABD5859742C80Ef12731095d2711f 
+<b>[EmberToken](https://github.com/emberswap/emberswap-contracts/blob/main/contracts/ember/EmberToken.sol)</b>           | 0x6BAbf5277849265b6738e75AEC43AEfdde0Ce88D 
+<b>[EmberDistributorV2](https://github.com/emberswap/emberswap-contracts/blob/main/contracts/farm/EmberDistributorV2.sol)</b>           | 0x8ecb32C33AB3f7ee3D6Ce9D4020bC53fecB36Be9 
+<b>[EmberVault](https://github.com/emberswap/emberswap-contracts/blob/main/contracts/farm/EmberVault.sol)</b> | 0xFFbE92fDA81f853bcf00d3c7686d5DAd5A6600bB 
+<b>[EmberFactory](https://github.com/emberswap/emberswap-contracts/blob/main/contracts/uniswapv2/EmberFactory.sol)</b> | 0xE62983a68679834eD884B9673Fb6aF13db740fF0 
+<b>[EmberRouter02](https://github.com/emberswap/emberswap-contracts/blob/main/contracts/uniswapv2/EmberRouter02.sol)</b> | 0x217057A8B0bDEb160829c19243A2E03bfe95555a 
+<b>[EmberLocker](https://github.com/emberswap/emberswap-contracts/blob/main/contracts/locker/EmberLocker.sol)</b> | 0xd9647E506Da0865f9a4E70fBD0aDA55b2B89E5b1 
+<b>[Multicall2](https://github.com/emberswap/emberswap-contracts/blob/main/contracts/helpers/Multicall2.sol) </b>| 0x20F9f219743556c06D2205F92548278CEd14A38B 
+<b>[Forwarder](https://github.com/emberswap/emberswap-contracts/blob/main/contracts/forwarder/Forwarder.sol)</b> | 0xdFE94E66cBb54b5c58cbAB5Bc17F8aC7b80F5cc6 
+
